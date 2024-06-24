@@ -37,8 +37,8 @@ System.out.println("Solution: " + solution);
 
 Developed by a lovely team of three 🥰🥰🥰
 
-Tarteel Elattar
+Tarteel Elattar (Me)
 
-Dina Ayman
+[Dina Ayman](https://github.com/DinaAymann)
 
-Nora Osama
+[Nora Osama](https://github.com/NoraOsama)
